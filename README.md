@@ -1,35 +1,28 @@
-# Mi Portafolio de Proyectos 🚀
+# Proyecto: Hoja de Vida con HTML y CSS 📄
 
-¡Bienvenido a mi repositorio de portafolio! Este espacio es una colección evolutiva de los proyectos en los que he trabajado y que iré desarrollando a lo largo de mi carrera como Ingeniero de Software. Aquí encontrarás desde mis primeros experimentos con HTML y CSS hasta aplicaciones más complejas.
-
----
-
-## 🎯 Objetivo del Repositorio
-
-El propósito principal de este repositorio es servir como una vitrina de mis habilidades y mi progreso en el desarrollo web. Cada carpeta representa un proyecto individual, documentando mi viaje de aprendizaje y aplicación de nuevas tecnologías.
+Este proyecto es una sencilla pero elegante hoja de vida digital, diseñada y desarrollada utilizando únicamente **HTML** y **CSS**. Es uno de mis primeros trabajos, enfocado en demostrar el dominio de la maquetación web y el estilizado sin el uso de frameworks.
 
 ---
 
-## 📂 Estructura de Proyectos
+## 📖 Descripción del Proyecto
 
-Cada proyecto está contenido en su propia carpeta para mantener todo organizado y fácil de navegar.
-
-### Proyectos Actuales:
-
-* **`/hoja-de-vida`**: Mi primer proyecto. Una hoja de vida digital creada puramente con **HTML** y **CSS** para mostrar mi perfil profesional de una manera limpia y directa.
-
-A medida que desarrolle nuevas habilidades y complete más proyectos, los iré añadiendo aquí.
-
+El objetivo de este proyecto es presentar mi perfil profesional, experiencia laboral, educación y habilidades de una manera visualmente atractiva y fácil de leer en cualquier navegador web. La estructura está semánticamente organizada con HTML5 y el diseño es completamente personalizado con CSS3.
 
 ---
 
-## 🛠️ Tecnologías
+## ✨ Características Principales
 
-Este portafolio se centra principalmente en el desarrollo web frontend y backend. Las tecnologías que encontrarás aquí incluyen, pero no se limitan a:
+* **Diseño Limpio y Profesional**: Interfaz clara y sin distracciones.
+* **Maquetación con HTML5**: Uso de etiquetas semánticas para una mejor estructura y accesibilidad.
+* **Estilizado con CSS**: Diseño responsivo básico y estilos personalizados para todos los elementos.
+* **Sin Dependencias**: No requiere JavaScript ni ninguna librería externa para funcionar.
 
-* HTML5
-* CSS3
-* JavaScript
-* Y frameworks o librerías que vaya aprendiendo en el futuro.
+---
 
-¡Gracias por visitar mi portafolio! Siéntete libre de explorar los proyectos.
+## 💻 ¿Cómo visualizar el proyecto?
+
+1.  Clona o descarga este repositorio.
+2.  Navega a la carpeta `/hoja-de-vida`.
+3.  Abre el archivo `index.html` en tu navegador web preferido (como Chrome, Firefox, etc.).
+
+¡Y listo! Podrás ver la hoja de vida directamente en tu pantalla.
